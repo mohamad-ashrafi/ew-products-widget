@@ -19,7 +19,6 @@ class Enqueue_Assets {
     public static function enqueue_public_assets(): void
     {
         wp_enqueue_style('ew-bootstrap-css', EW_PRODUCTS_WIDGET_URL . 'assets/css/bootstrap.min.css', [], '');
-        wp_enqueue_style('ew-glightbox-css', EW_PRODUCTS_WIDGET_URL . 'assets/css/glightbox.min.css', [], '');
         wp_enqueue_style('ew-gLineIcons-css', EW_PRODUCTS_WIDGET_URL . 'assets/css/gLineIcons.3.0.css', [], '');
         wp_enqueue_style('ew-slider-css', EW_PRODUCTS_WIDGET_URL . 'assets/css/tiny-slider.css', [], '');
         wp_enqueue_style('ew-main-css', EW_PRODUCTS_WIDGET_URL . 'assets/css/main.css', [], '');
