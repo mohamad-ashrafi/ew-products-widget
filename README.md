@@ -39,10 +39,9 @@ You can contribute to the development of this plugin by submitting pull requests
 ## Screenshots
 
 1. **main page**
-   ![Main widget example](https://github.com/mohamad-ashrafi/ew-products-widget/tree/main/assets/images/main.png)
-
+   ![Main widget example](./assets/images/main.png)
 2. **Settings page**
-   ![Settings page](https://github.com/mohamad-ashrafi/ew-products-widget/tree/main/assets/images/setting.png)
+   ![Settings page](./assets/images/setting.png)
 
 
 
