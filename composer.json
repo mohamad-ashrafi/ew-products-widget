@@ -1,0 +1,19 @@
+{
+  "name": "ashrafi/ew-products-widget",
+  "description": "return archive product woocommerce with elementor widget",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "mohamad ashrafi",
+      "email": "mohamadashrafi46@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Ew_Products_Widget\\": "./Includes"
+    }
+  },
+  "require": {
+  }
+}
